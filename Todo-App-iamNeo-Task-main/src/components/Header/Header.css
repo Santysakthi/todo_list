@@ -1,0 +1,15 @@
+header {
+    background-color:skyblue;
+    margin: auto - 16px;
+    padding: 16px - 32px;
+    box-shadow: 0-0-10px-0 rgba(0, 0, 0, 0.3);
+
+}
+
+header h1{
+    color: aliceblue;
+    font-family: cursive;
+    font-weight: 200;
+    padding: 16px;
+    font-size: large;
+}
